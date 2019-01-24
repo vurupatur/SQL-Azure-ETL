@@ -1,5 +1,3 @@
-#Import SQL data into Pandas, modify data in pandas or using sql, then upload to Azure blob.
-
 import pandas as pd
 import pyodbc, os
 
